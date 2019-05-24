@@ -9,8 +9,9 @@ Tested only with Google Calendar.
 This is my course at BME VIK, called [Gépi látás](https://portal.vik.bme.hu/kepzes/targyak/VIIIM021/hu/).
 I do not have copyright on the pictures used for this course.
 
-## Diplomaterv
-This is some code for my final project.
+## ~~Diplomaterv~~
+~~This is some code for my final project.~~
+This code is outdated, current is in a private repo.
 
 ## MRD
 This is my course at BME GPK called Dynamics of Systems in Mechanics.

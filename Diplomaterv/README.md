@@ -1,5 +1,7 @@
 # Diplomaterv
 
+**Outdated!!!**
+
 This directory contains code for my final project.
 
 ## Julia packages
